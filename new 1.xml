@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persons>
+<person1>
+
+<name>ahmed</name>
+
+<email>ahmed@gmail.com</email>
+<phone>02837744</phone>
+
+<birthday>23/02/2003</birthday>
+<country>egypt</country>
+
+
+</person1>
+
+<person2>
+
+<name>mohamed</name>
+
+<email>mohmed@gmail.com </email>
+<phone>02833456</phone>
+
+<birthday>24/02/2003</birthday>
+<country>soudia</country>
+
+
+</person2>
+
+
+
+
+
+
+</persons>
